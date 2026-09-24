@@ -1,0 +1,32 @@
+{
+    "capital_prestado": {
+        "tipo": "numerica",
+        "p_value": 2.8609539204989354e-14,
+        "drift": true
+    },
+    "salario_cliente": {
+        "tipo": "numerica",
+        "p_value": 0.5435398493451667,
+        "drift": false
+    },
+    "cuota_pactada": {
+        "tipo": "numerica",
+        "p_value": 0.5435398493451667,
+        "drift": false
+    },
+    "edad_cliente": {
+        "tipo": "numerica",
+        "p_value": 0.8185141723177575,
+        "drift": false
+    },
+    "tipo_laboral": {
+        "tipo": "categorica",
+        "p_value": 0.6697597251145575,
+        "drift": false
+    },
+    "tendencia_ingresos": {
+        "tipo": "categorica",
+        "p_value": 0.6818903590653298,
+        "drift": false
+    }
+}
